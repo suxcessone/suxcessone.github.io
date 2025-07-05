@@ -9,6 +9,7 @@ body {
 ul {
     display: flex;
     margin-top: 100px;
+    padding: 0;
 }
 
 ul li {
